@@ -1,0 +1,5 @@
+input=input("enter the list of numbers separated by space")
+list1=input.split()
+print(list1)
+list1.reverse()
+print(list1)
